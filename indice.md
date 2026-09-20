@@ -2,5 +2,4 @@
 
 ## Temas
 
-* [Tema 1](tema-1/)
-* [Tema 2](tema-2/)
+* [Tema 2. Introducción al desarrollo de Aplicaciones Web](tema-2/)
