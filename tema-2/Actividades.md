@@ -4,12 +4,12 @@
 
 ### Frameworks PHP más utilizados
 
-| Framework    | URL                                        | Año de creación | Última versión | Fuente                                         |
-|-------------------------------------------------------|-----------------|----------------|------------------------------------------------|
-| Laravel      | [laravel.com](https://laravel.com/)        | 2011            | 13.32.0        | [Laravel Releases](https://laravel.com/framework
-docs/releases)|
-| Symfony     | [symfony.com](https://symfony.com/)         | 2005            | 8.1.7          | [Symfony Releases](https://symfony.com/releases) |
-| CodeIgniter | [codeigniter.com](https://codeigniter.com/) | 2006            | 4.7.4          | [CodeIgniter Download](https://www.codeigniter.com/download) |
+| Framework   | URL                                          | Año de creación | Última versión | Fuente                                                           |
+|-------------|----------------------------------------------|-----------------|----------------|-----------------------------------------------------------------|
+| Laravel     | [laravel.com](https://laravel.com/)          | 2011            | 13.32.0        | [Laravel Releases](https://laravel.com/framework/docs/releases) |
+| Symfony     | [symfony.com](https://symfony.com/)          | 2005            | 8.1.7          | [Symfony Releases](https://symfony.com/releases)                |
+| CodeIgniter | [codeigniter.com](https://codeigniter.com/)  | 2006            | 4.7.4          | [CodeIgniter Download](https://www.codeigniter.com/download)|
+
 
 ## Actividad 3 
 
