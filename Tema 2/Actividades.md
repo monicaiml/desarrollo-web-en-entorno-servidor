@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Tema 2. Introducción al desarrollo de Aplicaciones Web
 
 ## Actividad 1
